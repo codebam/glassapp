@@ -1,4 +1,4 @@
-If all unstable builds have been added to stable, please copy the latest stable to the unstable directory for development.
+If all unstable commits have been added to the stable build, please copy the latest stable to the unstable directory for development.
 
 ---
 
