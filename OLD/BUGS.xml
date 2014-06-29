@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='us-ascii'?>
+<!--
+Guidelines
+- Please add to the bottom of their category file so we can fix bugs in order of urgency.
+- Please include the date and reporter in the index for the file
+- Please include a log if it makes sense to include one.
+- Follow formatting, 4 spaces as an indent, and do indents
+- 
+
+Comments
+-
+-->
+<BUGS> 
+
+    <IN-PROGRESS>
+        <BUG-EXAMPLE>
+        <TITLE>Example Bug</TITLE>
+            <DATE>06/27/2014</DATE>
+            <REPORTED_BY>Sean Behan</REPORTED_BY>
+            <COMMENTS>This is an example, feel free to copy it and use it as a template</COMMENTS>
+        </BUG-EXAMPLE>
+    </IN-PROGRESS>
+
+
+    <RESOLVED>
+        
+    </RESOLVED>
+
+
+    <CLOSED>
+        
+    </CLOSED>
+
+
+    <DONE>
+        
+    </DONE>
+
+
+    <IN-REVIEW>
+        
+    </IN-REVIEW>
+
+
+    <TO-DO>
+        
+    </TO-DO>
+
+</BUGS>
