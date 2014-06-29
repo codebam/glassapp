@@ -4,4 +4,4 @@ __STABLE__ is a directory for code that has been polished and is ready to go for
 
 __UNSTABLE__ is a directory for code that is not stable enough for average users and may not work properly. It is code that may or may not be polished off and added to later builds.
 
-__BUGS.xml__ is a file for bugs, every bug indexed in BUGS.xml
+__BUGS__ should be reported in the issues section appropriatly.
