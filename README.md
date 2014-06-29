@@ -1,6 +1,6 @@
 This is an Application for Google Glass
 
-__BUILDS___
+__BUILDS__
 
 	STABLE is a directory for code that has been polished and is ready to go for all the users. It will be pushed asap to the application server
 	
