@@ -13,6 +13,6 @@ UNSTABLE is for code that is not stable enough for average users. It is code tha
 
 __BUGS__ should be reported in the issues section appropriately.
 
-If commits have been added to the stable build, please copy the latest stable to the unstable branch for bug fixes.
+Make sure to switch to your branch before committing and pushing.
 
 Copyright © 2014
