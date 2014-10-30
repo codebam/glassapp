@@ -1,13 +1,5 @@
-This is an Application for Google Glass
-
-__BUILDS__
-
-	STABLE is a directory for code that has been polished and is ready to go for all the users. It will be pushed asap to the application server
-	
-	UNSTABLE is a directory for code that is not stable enough for average users and may not work properly. It is code that may or may not be polished off and added to later builds.
-
-__BUGS__ should be reported in the issues section appropriatly.
+If commits have been added to the stable build, please copy the latest stable to the unstable directory to fix any bugs. We can release it as a beta release possibly.
 
 ---
 
-Copyright © 2014
+__Info on the latest unstable build:__
